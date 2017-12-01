@@ -27,3 +27,29 @@ a {
   font-weight: bold;
   color: white;
 }
+
+
+h2 {
+  font-family: Helvetica;
+  font-size: 32px;
+  font-weight: bold;
+}
+
+.Process-step {
+  font-family: Helvetica;
+  font-size: 23;
+  font-weight: bold;
+}
+
+p {
+  font-size: 14px;
+  font-weight: normal;
+}
+
+.footer {
+  font-size: Helvetica;
+  font-size: 11px;
+  color: White;
+  text-align: left;
+  background-color: dimgray;
+}
